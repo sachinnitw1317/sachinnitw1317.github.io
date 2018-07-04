@@ -1,14 +1,14 @@
 [
-{
-relation: [
-"delegate_permission/common.handle_all_urls"
-],
-target: {
-namespace: "android_app",
-package_name: "com.pratilipi.mobile.android",
-sha256_cert_fingerprints: [
-"99:61:5D:E9:CC:13:EA:05:E3:9C:64:2B:33:E4:55:0B:E1:07:9C:8C:6A:FA:6B:72:4A:9D:5B:3D:9B:91:4E:E7"
-]
-}
-}
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pratilipi.mobile.android",
+      "sha256_cert_fingerprints": [
+        "99:61:5D:E9:CC:13:EA:05:E3:9C:64:2B:33:E4:55:0B:E1:07:9C:8C:6A:FA:6B:72:4A:9D:5B:3D:9B:91:4E:E7"
+      ]
+    }
+  }
 ]
